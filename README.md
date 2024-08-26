@@ -40,5 +40,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chhavi-agrawal&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=58a6ff" alt="Chhavi's GitHub stats" />
 </p>
 
-<h3 align="left">⚡ Fun Fact:</h3>
-<p align="left">I once created a data visualization project inspired by my love for travel, mapping out all the places I’ve visited and their unique stories!</p>
