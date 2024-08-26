@@ -35,8 +35,5 @@
   </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chhavi-agrawal&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=58a6ff" alt="Chhavi's GitHub stats" />
-</p>
+
 
