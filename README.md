@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data visualization techniques and best practices**
 - 👯 I’m looking to collaborate on **Innovative applications of mathematics in data-driven solutions**
-- 📫 How to reach me: **chhaviagrawal2567@gmail.com**
+- 📫 Reach me at: **chhaviagrawal2567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
