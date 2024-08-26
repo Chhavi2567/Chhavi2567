@@ -41,4 +41,4 @@
 </p>
 
 <h3 align="left">⚡ Fun Fact:</h3>
-<p align="left">I love solving puzzles and challenges, especially if they involve data! I also enjoy exploring new cuisines and trying out recipes from different cultures.</p>
+<p align="left">I once created a data visualization project inspired by my love for travel, mapping out all the places I’ve visited and their unique stories!</p>
