@@ -1,10 +1,11 @@
-## Hi there 👋
+##  Hi there, I'm Chhavi Agrawal! 👋
 
 <!--
 **Chhavi2567/Chhavi2567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+ 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/chhavi-agrawal-276553294/)
+- [Email](chhaviagrawal2567@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
